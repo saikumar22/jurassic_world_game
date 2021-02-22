@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+html ,body{
+    /*background: black;*/
+    padding:0px;
+    margin:0px;
+    width:100%;
+    height: 100%;
+}
+#mycanvas {
+    border: 3px solid #000000;
+    background-image: url('../assets/bg9.gif');
+    height: 745px;
+    width: 1510px;
+    background-size: 1710px 870px;
+}
+.board{
+    width:20%;
+    height: 80px;
+    font-size: 1.8rem;
+    margin-left: 80%;
+    margin-top: 50px;
+}
